@@ -1,0 +1,1 @@
+<h1 style="color: #FDA30E;">Bạn đã đặt hàng thành công</h1>
